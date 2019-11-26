@@ -1,2 +1,0 @@
-# picgo
-picbed
